@@ -4,7 +4,7 @@ import AddToCart from './AddToCart';
 
 const ProductCard = () => {
   return (
-    <div className = "">
+    <div>
         <AddToCart/>
     </div>
   )
